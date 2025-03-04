@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/jogo-da-memoria/static/css/main.e6c13ad2.css",
-    "main.js": "/jogo-da-memoria/static/js/main.bf4286be.js",
+    "main.js": "/jogo-da-memoria/static/js/main.ef764ee5.js",
     "static/js/453.72aa18ef.chunk.js": "/jogo-da-memoria/static/js/453.72aa18ef.chunk.js",
-    "static/media/devmemory_logo.png": "/jogo-da-memoria/static/media/devmemory_logo.31aff21342d67831dfb3.png",
+    "static/media/devmemory_logo.png": "/jogo-da-memoria/static/media/devmemory_logo.6112a59433ce68f53497.png",
     "static/media/b7.svg": "/jogo-da-memoria/static/media/b7.051e421583d8e06969f321469bc31600.svg",
     "static/media/android.svg": "/jogo-da-memoria/static/media/android.dd86c47007e38bf4e4262d0dfc82b127.svg",
     "static/media/moto.svg": "/jogo-da-memoria/static/media/moto.db9cf75f439ba00114a5f7ab57b92faa.svg",
@@ -14,11 +14,11 @@
     "static/media/restart.svg": "/jogo-da-memoria/static/media/restart.0348647a7dae743f139d281193d1d372.svg",
     "static/media/estrela.svg": "/jogo-da-memoria/static/media/estrela.16795fe557849fbe18d9a0b309e2eaa3.svg",
     "main.e6c13ad2.css.map": "/jogo-da-memoria/static/css/main.e6c13ad2.css.map",
-    "main.bf4286be.js.map": "/jogo-da-memoria/static/js/main.bf4286be.js.map",
+    "main.ef764ee5.js.map": "/jogo-da-memoria/static/js/main.ef764ee5.js.map",
     "453.72aa18ef.chunk.js.map": "/jogo-da-memoria/static/js/453.72aa18ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bf4286be.js"
+    "static/js/main.ef764ee5.js"
   ]
 }
